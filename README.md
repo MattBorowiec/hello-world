@@ -2,3 +2,10 @@ hello-world
 ===========
 
 My first green square.
+
+
+OH GOD I AM SO DESPERATE FOR A GREEN SQUARE.
+
+I SWEAR I'VE BEEN USING GIT BEFORE I DID THIS.
+
+PLEASE BELIEVE ME. :(
